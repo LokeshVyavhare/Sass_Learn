@@ -1,0 +1,16 @@
+$backgound1 : rgb(2, 2, 2);
+
+body, body *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: $backgound1;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto 5vh;
+    padding: 15px 55px;
+    color: #fff;
+}
